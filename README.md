@@ -1,11 +1,15 @@
 <h1>Hi, I'm Fajar Arahman !👋</h1>
 
-🌱 I’m currently learning Android, Machine Learning, and Web
+I'm a passionate Android Developer !
+
+## 🌱 Currently Learning  
+- Kotlin
+- Flutter  
 
 <h2>Tools & Languages</h2>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,vscode,python" />
+    <img src="https://skillicons.dev/icons?i=kotlin,vscode,dart" />
   </a>
 </p>
 
